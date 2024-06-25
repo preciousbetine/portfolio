@@ -100,7 +100,18 @@ function App() {
       </section>
 
       <footer>
-        <p>&copy; 2024 Precious Uwhubetine</p>
+        <div>
+          <p>&copy; 2024 Precious Uwhubetine</p>
+          <a
+            target="_blank"
+            rel="noreferrer"
+            href="https://www.freepik.com/free-vector/black-circle-grid-background-vector_34380758.htm#query=black%20circle&position=19&from_view=keyword&track=ais_user&uuid=8e6c816b-56a6-4421-9cfa-98de3de89a67"
+          >
+            Favicon Image by rawpixel.com
+          </a>
+          &nbsp;
+          on Freepik
+        </div>
 
         <ul>
           <li><a href="mailto:preciousbetine@gmail.com">Email</a></li>
